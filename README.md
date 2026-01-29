@@ -88,7 +88,7 @@ SLOOZE-INVENTORY-ANALYSIS/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/slooze-inventory-analysis.git
+git clone https://github.com/KritiRawani/slooze-inventory-analysis.git
 cd slooze-inventory-analysis
 
 
